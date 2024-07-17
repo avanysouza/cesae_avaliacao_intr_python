@@ -45,7 +45,7 @@ operação (exceto sair) deverá ser visualizado novamente o menu;<br>
 * Python
 
 ## IDE
-PyCharm 2024.1.3 (Professional Edition)
+PyCharm 2024.1.3 (Professional Edition)<br>
 Desenvolvedora: Avany Souza
 
 ![image](https://github.com/user-attachments/assets/ed6ba8b1-d88e-4d16-bacf-1ff49f21d688)
