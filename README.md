@@ -6,7 +6,7 @@ Prática laboratorial para avaliação final da disciplina Introdução à Progr
 ## Habilidades Desenvolvidas
 
 * Prática da sintaxe de Python;
-* Ciclo While;
+* Ciclo While
 * Condicionais (if, elif)
 * Funções
 * Bibliotecas random e time
